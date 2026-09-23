@@ -46,7 +46,8 @@ Loading and unloading
 Overall production flow
 Interview explanation
 
-![Uploading image.png…]()
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0acb8f8b-66af-4682-b291-e68bff4952ad" />
+
 
 conclusion
 The 3D factory layout created using DELMIA Plant Layout Design provides a clear digital representation of the manufacturing facility. It helps in planning machine placement, material flow, storage, conveyor arrangement, space utilization, accessibility, and safety. By validating the layout digitally, unnecessary movement, space wastage, and layout-related problems can be identified before actual implementation, resulting in a more efficient and well-organized manufacturing system.
