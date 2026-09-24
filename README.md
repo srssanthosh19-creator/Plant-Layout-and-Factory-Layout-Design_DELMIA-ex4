@@ -1,3 +1,5 @@
+Soap Manufacturing Plant Layout
+
 The rectangular enclosed area is the main production floor. The two trucks on either side represent the material entry and finished-product dispatch areas.
 
 Left-side truck: Material/raw-material entry into the plant.
